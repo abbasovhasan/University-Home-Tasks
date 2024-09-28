@@ -1,0 +1,17 @@
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\bin\Debug\net8.0-windows\FirstLesson.exe
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\bin\Debug\net8.0-windows\FirstLesson.deps.json
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\bin\Debug\net8.0-windows\FirstLesson.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\bin\Debug\net8.0-windows\FirstLesson.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\bin\Debug\net8.0-windows\FirstLesson.pdb
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.Form1.resources
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.csproj.GenerateResource.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\refint\FirstLesson.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.pdb
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\ref\FirstLesson.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\FirstLesson\FirstLesson\obj\Debug\net8.0-windows\FirstLesson.Form2.resources

@@ -1,0 +1,16 @@
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.Form1.resources
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.csproj.GenerateResource.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\bin\Debug\net8.0-windows\HomeTaskAdminPanel.exe
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\bin\Debug\net8.0-windows\HomeTaskAdminPanel.deps.json
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\bin\Debug\net8.0-windows\HomeTaskAdminPanel.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\bin\Debug\net8.0-windows\HomeTaskAdminPanel.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\bin\Debug\net8.0-windows\HomeTaskAdminPanel.pdb
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\refint\HomeTaskAdminPanel.dll
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.pdb
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\HomeTaskAdminPanel.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\UniversityC#\HomeTaskAdminPanel\HomeTaskAdminPanel\obj\Debug\net8.0-windows\ref\HomeTaskAdminPanel.dll
